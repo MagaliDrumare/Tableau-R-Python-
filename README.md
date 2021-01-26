@@ -1,4 +1,3 @@
-Tableau for Data Science 
 
 
 # Install Rserve and Tabpy 
